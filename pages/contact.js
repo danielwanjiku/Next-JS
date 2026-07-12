@@ -1,0 +1,1 @@
+import Navbar from '../components/Navbar';export default function Page(){return<><Navbar/><h1>Contact</h1><p>Contact page.</p></>}
